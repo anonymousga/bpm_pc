@@ -1,0 +1,11 @@
+table, th, td {
+    margin: 3px;
+    padding: 3px;
+    border-collapse: collapse;
+}
+header {
+    margin: 40px;
+}
+.content table th{
+    border: 1px solid black;
+}
