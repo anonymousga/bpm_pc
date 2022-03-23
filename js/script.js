@@ -19,3 +19,45 @@ function rhide2(){
     elem.setAttribute("class", "d-none");
     document.getElementById("rshow2").setAttribute("class", "d-inline");
 }
+function rshow3(idE){
+    elem = document.getElementById("rsh3");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide3(){
+    elem = document.getElementById("rsh3");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow3").setAttribute("class", "d-inline");
+}
+function rshow4(idE){
+    elem = document.getElementById("rsh4");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide4(){
+    elem = document.getElementById("rsh4");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow4").setAttribute("class", "d-inline");
+}
+function rshow5(idE){
+    elem = document.getElementById("rsh5");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide5(){
+    elem = document.getElementById("rsh5");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow5").setAttribute("class", "d-inline");
+}
+function rshow6(idE){
+    elem = document.getElementById("rsh6");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide6(){
+    elem = document.getElementById("rsh6");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow6").setAttribute("class", "d-inline");
+}
+
+
