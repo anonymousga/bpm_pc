@@ -1,4 +1,4 @@
-BPM Platforms Comparison 
+# BPM Platforms Comparison
 
 For developing a research on a traceability framework from BPMN activities and their execution links.  
 
