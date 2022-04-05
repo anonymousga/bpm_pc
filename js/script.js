@@ -60,4 +60,24 @@ function rhide6(){
     document.getElementById("rshow6").setAttribute("class", "d-inline");
 }
 
+function rshow7(idE){
+    elem = document.getElementById("rsh7");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide7(){
+    elem = document.getElementById("rsh7");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow7").setAttribute("class", "d-inline");
+}
+function rshow8(idE){
+    elem = document.getElementById("rsh8");
+    elem.setAttribute("class", "d-block");
+    idE.setAttribute("class", "d-none");
+}
+function rhide8(){
+    elem = document.getElementById("rsh8");
+    elem.setAttribute("class", "d-none");
+    document.getElementById("rshow8").setAttribute("class", "d-inline");
+}
 
