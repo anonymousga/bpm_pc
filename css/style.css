@@ -7,3 +7,6 @@ body {
 #rsh1, #rsh2, #rsh3, #rsh4, #rsh5, #rsh6, #rsh7, #rsh8 {
     display: none;
 } 
+#authorsAnonymous {
+    display: show;
+}
