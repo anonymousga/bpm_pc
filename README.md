@@ -4,4 +4,4 @@ For developing a research on a traceability framework from BPMN activities and t
 
 Criteria used and applied for each compared BPM platform. 
 
-Site published in https://olvegam.github.io/bpm_pc/
+Site published in https://anonymousga.github.io/bpm_pc/
